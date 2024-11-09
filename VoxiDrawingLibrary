@@ -1,3 +1,5 @@
+warn ("[VOXLY] Drawing Libary loaded!")
+
 local coreGui = game:GetService("CoreGui")
 
 local camera = workspace.CurrentCamera
