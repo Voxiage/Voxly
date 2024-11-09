@@ -1,4 +1,5 @@
 warn ("[VOXLY] Hash Libary loaded!")
+warn ("[VOXLY] Anti-Vulns Libary loaded!")
 
 local Alphabet = {}
 local Indexes = {}
