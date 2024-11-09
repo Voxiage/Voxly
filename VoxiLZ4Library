@@ -1,6 +1,9 @@
 --!strict
 -- metatablecat 2022
 
+
+warn ("[VOXLY] LZ4 Libary loaded!")
+
 local lz4 = {}
 
 type Streamer = {
